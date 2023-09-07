@@ -62,7 +62,7 @@ public:
         file.write(workNum, 20);
         file.write(mobileNum, 20);
         file.write(addlInfo, 100);
-    }
+    } 
 
     void loadContact(ifstream& file) {
         file.read(name, nameLength);
