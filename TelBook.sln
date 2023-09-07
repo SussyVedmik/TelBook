@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TelBook", "TelBook\TelBook.vcxproj", "{493EA2E1-880E-4306-AFC8-8F0EFBAAEAFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{493EA2E1-880E-4306-AFC8-8F0EFBAAEAFD}.Debug|x64.ActiveCfg = Debug|x64
+		{493EA2E1-880E-4306-AFC8-8F0EFBAAEAFD}.Debug|x64.Build.0 = Debug|x64
+		{493EA2E1-880E-4306-AFC8-8F0EFBAAEAFD}.Debug|x86.ActiveCfg = Debug|Win32
+		{493EA2E1-880E-4306-AFC8-8F0EFBAAEAFD}.Debug|x86.Build.0 = Debug|Win32
+		{493EA2E1-880E-4306-AFC8-8F0EFBAAEAFD}.Release|x64.ActiveCfg = Release|x64
+		{493EA2E1-880E-4306-AFC8-8F0EFBAAEAFD}.Release|x64.Build.0 = Release|x64
+		{493EA2E1-880E-4306-AFC8-8F0EFBAAEAFD}.Release|x86.ActiveCfg = Release|Win32
+		{493EA2E1-880E-4306-AFC8-8F0EFBAAEAFD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF62496E-6BB5-4BA5-8636-1B9137CB091C}
+	EndGlobalSection
+EndGlobal
